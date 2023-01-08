@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Employee-Management-System](https://github.com/im-rakesh0827/Employee-Management-System)
 
-- 🤝 I’m looking for help with [E-Voting System](https://github.com/im-rakesh0827/E-Voting-System)
+<!-- - 🤝 I’m looking for help with [E-Voting System](https://github.com/im-rakesh0827/E-Voting-System) -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/im-rakesh0827](https://github.com/im-rakesh0827)
 
