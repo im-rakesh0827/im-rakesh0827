@@ -50,3 +50,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-rakesh0827&show_icons=true&locale=en" alt="im-rakesh0827" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-rakesh0827&" alt="im-rakesh0827" /></p>
+
+
+<a href="https://app.daily.dev/im_rakesh0827"><img src="https://api.daily.dev/devcards/af8267d7f3354450901bc26ab429a635.png?r=k54" width="400" alt="Rakesh Kumar's Dev Card"/></a>
