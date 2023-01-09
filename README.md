@@ -1,19 +1,27 @@
 <h1 align="center">Hi 👋, I'm Rakesh</h1>
 <h3 align="center">A passionate Software Development Enthusiast from India</h3>
-<img align="left" alt="coding" width="2000" src="https://hnwebmarketingseo.files.wordpress.com/2018/06/giphy.gif?w=1108">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=im-rakesh0827&label=Profile%20views&color=0e75b6&style=flat" alt="im-rakesh0827" /> </p>
+<img align="left" alt="coding" width="2000"
+    src="https://hnwebmarketingseo.files.wordpress.com/2018/06/giphy.gif?w=1108">
+<p align="left"> <img
+        src="https://komarev.com/ghpvc/?username=im-rakesh0827&label=Profile%20views&color=0e75b6&style=flat"
+        alt="im-rakesh0827" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=im-rakesh0827" alt="im-rakesh0827" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+            src="https://github-profile-trophy.vercel.app/?username=im-rakesh0827" alt="im-rakesh0827" /></a> </p>
 
-<a href="https://app.daily.dev/im_rakesh0827"><img src="https://api.daily.dev/devcards/af8267d7f3354450901bc26ab429a635.png?r=k54" width="400" align="right" alt="Rakesh Kumar's Dev Card"/></a>
+<a href="https://app.daily.dev/im_rakesh0827"><img
+        src="https://api.daily.dev/devcards/af8267d7f3354450901bc26ab429a635.png?r=k54" width="400" align="right"
+        alt="Rakesh Kumar's Dev Card" /></a>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img
+            src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Java | Mern Stack**
 
 - 🔭 I’m currently working on [E-Voting System](https://github.com/im-rakesh0827/E-Voting-System)
 
-- 👯 I’m looking to collaborate on [Employee-Management-System](https://github.com/im-rakesh0827/Employee-Management-System)
+- 👯 I’m looking to collaborate on
+[Employee-Management-System](https://github.com/im-rakesh0827/Employee-Management-System)
 
 <!-- - 🤝 I’m looking for help with [E-Voting System](https://github.com/im-rakesh0827/E-Voting-System) -->
 
@@ -23,7 +31,8 @@
 
 - 📫 How to reach me **acousticrakesh0827@gmail.com**
 
-- 📄 Resume : [https://drive.google.com/file/d/1_IlArM699X5cNvPFe-eZzfMkEkVUmxco/view?usp=share_link](https://drive.google.com/file/d/1_IlArM699X5cNvPFe-eZzfMkEkVUmxco/view?usp=share_link)
+- 📄 Resume :
+[https://drive.google.com/file/d/1_IlArM699X5cNvPFe-eZzfMkEkVUmxco/view?usp=share_link](https://drive.google.com/file/d/1_IlArM699X5cNvPFe-eZzfMkEkVUmxco/view?usp=share_link)
 
 - 💬 Ask me about **Java,Swing, C/C++, DSA**
 
@@ -31,25 +40,27 @@
 
 
 
-
 <details>
     <summary>
-        👨‍💻 Being a Tech Enthusiast  I enjoy learning new Tech-Stack and Frameworks. I'm currently
+        👨‍💻 Being a Tech Enthusiast I enjoy learning new Tech-Stack and Frameworks. I'm currently
         learning:
     </summary>
     <br />
     <div>
+
+
         <img src="https://img.shields.io/badge/Java-007ACC?style=for-the-badge&logo=java&logoColor=white" />
         <img src="https://img.shields.io/badge/CPP-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-478CBF?style=for-the-badge&logo=mysql&logoColor=white" />
 
         <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
-
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
-        
+
+
         <img src="https://img.shields.io/badge/Spring-007ACC?style=for-the-badge&logo=Spring-007ACC&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring Boot-007ACC?style=for-the-badge&logo=spring-boot&logoColor=white" />
+        <img
+            src="https://img.shields.io/badge/Spring Boot-007ACC?style=for-the-badge&logo=spring-boot&logoColor=white" />
 
         <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
         <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
@@ -63,7 +74,7 @@
 
 <details>
     <summary>
-        💻 Interesting technologies which I hope to learn in the future:
+        💻 Tech-Stack which I hope to learn in the upcoming future :
     </summary>
     <br />
     <div>
@@ -76,20 +87,24 @@
         <img src="https://img.shields.io/badge/Firebase-FF9900?style=for-the-badge&logo=firebase&logoColor=white" />
         <img src="https://img.shields.io/badge/AI/ML-262c3e?style=for-the-badge&logo=probot&logoColor=white" />
         <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-        <img src="https://img.shields.io/badge/Swift%20Playgrounds-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+        <img
+            src="https://img.shields.io/badge/Swift%20Playgrounds-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white" />
 
         <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
         <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
         <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
-        <img src="https://img.shields.io/badge/Semantic%20UI-35BDB2?style=for-the-badge&logo=semanticuireact&logoColor=white" />
+        <img
+            src="https://img.shields.io/badge/Semantic%20UI-35BDB2?style=for-the-badge&logo=semanticuireact&logoColor=white" />
         <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
         <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
         <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-        <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
+        <img
+            src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
         <img src="https://img.shields.io/badge/Twine-1ED760?style=for-the-badge&logo=payoneer&logoColor=white" />
-        <img src="https://img.shields.io/badge/Sugarcube-F34E68?style=for-the-badge&logo=hack-the-box&logoColor=white" />
+        <img
+            src="https://img.shields.io/badge/Sugarcube-F34E68?style=for-the-badge&logo=hack-the-box&logoColor=white" />
         <img src="https://img.shields.io/badge/Phaser.js-F15B2A?style=for-the-badge&logo=starship&logoColor=white" />
         <img src="https://img.shields.io/badge/GDevelop-007DB8?style=for-the-badge&logo=Gitee&logoColor=white" />
         <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
@@ -104,7 +119,7 @@
     <div>
         <a href="https://github.com/im-rakesh0827"><img
                 src="https://img.shields.io/badge/Personal Site-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-        
+
         <a href="https://im-rakesh0827.github.io/Portfolio-Website/"><img
                 src="https://img.shields.io/badge/Scratch%20Portfolio-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" /></a>
     </div>
@@ -118,29 +133,54 @@
 
 
 
-
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/im-rakesh0827/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/im-rakesh0827/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13960854/rakesh-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13960854/rakesh-kumar" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/imrakesh0827" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/imrakesh0827" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/im.rakesh0827" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/im.rakesh0827" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/im_rakesh0827/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/im_rakesh0827/" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://hashnode.com/@imrakesh0827" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@imrakesh0827" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@im-rakesh0827" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@im-rakesh0827" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/rakesh_0827" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/rakesh_0827" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/im_rakesh0827" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/im_rakesh0827" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/im_rakesh0827/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/im_rakesh0827/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/im_rakesh0827/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/im_rakesh0827/" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/im-rakesh0827/" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+            alt="https://www.linkedin.com/in/im-rakesh0827/" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13960854/rakesh-kumar" target="blank"><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
+            alt="https://stackoverflow.com/users/13960854/rakesh-kumar" height="30" width="40" /></a>
+    <a href="https://kaggle.com/https://www.kaggle.com/imrakesh0827" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
+            alt="https://www.kaggle.com/imrakesh0827" height="30" width="40" /></a>
+    <a href="https://fb.com/https://www.facebook.com/im.rakesh0827" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+            alt="https://www.facebook.com/im.rakesh0827" height="30" width="40" /></a>
+    <a href="https://instagram.com/https://www.instagram.com/im_rakesh0827/" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="https://www.instagram.com/im_rakesh0827/" height="30" width="40" /></a>
+    <a href="https://hashnode.com/https://hashnode.com/@imrakesh0827" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg"
+            alt="https://hashnode.com/@imrakesh0827" height="30" width="40" /></a>
+    <a href="https://medium.com/https://medium.com/@im-rakesh0827" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+            alt="https://medium.com/@im-rakesh0827" height="30" width="40" /></a>
+    <a href="https://www.codechef.com/users/https://www.codechef.com/users/rakesh_0827" target="blank"><img
+            align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
+            alt="https://www.codechef.com/users/rakesh_0827" height="30" width="40" /></a>
+    <a href="https://www.hackerrank.com/https://www.hackerrank.com/im_rakesh0827" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+            alt="https://www.hackerrank.com/im_rakesh0827" height="30" width="40" /></a>
+    <a href="https://www.leetcode.com/https://leetcode.com/im_rakesh0827/" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+            alt="https://leetcode.com/im_rakesh0827/" height="30" width="40" /></a>
+    <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/im_rakesh0827/" target="blank"><img
+            align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
+            alt="https://auth.geeksforgeeks.org/user/im_rakesh0827/" height="30" width="40" /></a>
 </p>
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-rakesh0827&" alt="im-rakesh0827" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-rakesh0827&"
+        alt="im-rakesh0827" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=im-rakesh0827&show_icons=true&locale=en" alt="im-rakesh0827" /></p>
+<p>&nbsp;<img align="center"
+        src="https://github-readme-stats.vercel.app/api?username=im-rakesh0827&show_icons=true&locale=en"
+        alt="im-rakesh0827" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=im-rakesh0827&show_icons=true&locale=en&layout=compact" alt="im-rakesh0827" /></p>
+<p><img align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=im-rakesh0827&show_icons=true&locale=en&layout=compact"
+        alt="im-rakesh0827" /></p>
