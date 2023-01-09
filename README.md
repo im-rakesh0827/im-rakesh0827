@@ -22,11 +22,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@im-rakesh0827](https://medium.com/@im-rakesh0827)
 
-- 💬 Ask me about **Java,Swing, C/C++, DSA**
-
 - 📫 How to reach me **acousticrakesh0827@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_IlArM699X5cNvPFe-eZzfMkEkVUmxco/view?usp=share_link](https://drive.google.com/file/d/1_IlArM699X5cNvPFe-eZzfMkEkVUmxco/view?usp=share_link)
+- 📄 Resume : [https://drive.google.com/file/d/1_IlArM699X5cNvPFe-eZzfMkEkVUmxco/view?usp=share_link](https://drive.google.com/file/d/1_IlArM699X5cNvPFe-eZzfMkEkVUmxco/view?usp=share_link)
+
+- 💬 Ask me about **Java,Swing, C/C++, DSA**
 
 - ⚡ Fun fact **Life Is Unreal, Death Is Uncertain**
 
