@@ -58,9 +58,6 @@
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
 
 
-        <img src="https://img.shields.io/badge/Spring-007ACC?style=for-the-badge&logo=Spring-007ACC&logoColor=white" />
-        <img
-            src="https://img.shields.io/badge/Spring Boot-007ACC?style=for-the-badge&logo=spring-boot&logoColor=white" />
 
         <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
         <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
