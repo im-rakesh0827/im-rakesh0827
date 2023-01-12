@@ -9,9 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=im-rakesh0827" alt="im-rakesh0827" /></a> </p>
 
-<a href="https://app.daily.dev/im_rakesh0827"><img
-        src="https://api.daily.dev/devcards/af8267d7f3354450901bc26ab429a635.png?r=k54" width="400" align="right"
-        alt="Rakesh Kumar's Dev Card" /></a>
+<a href="https://app.daily.dev/im_rakesh0827"><img src="https://api.daily.dev/devcards/af8267d7f3354450901bc26ab429a635.png?r=l0z" width="400" align="right" alt="Rakesh Kumar's Dev Card"/></a>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
             src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
