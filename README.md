@@ -25,18 +25,19 @@
 
 <!-- - 🤝 I’m looking for help with [E-Voting System](https://github.com/im-rakesh0827/E-Voting-System) -->
 
-- 👨‍💻 All of my projects are available at [https://github.com/im-rakesh0827](https://github.com/im-rakesh0827)
+- 📝 I write articles on [https://medium.com/@im-rakesh0827](https://medium.com/@im-rakesh0827)
 
-- 📝 I regularly write articles on [https://medium.com/@im-rakesh0827](https://medium.com/@im-rakesh0827)
-
-- 📫 How to reach me **acousticrakesh0827@gmail.com**
+- 📄 Proof Of Work : (https://hashnode.com/@imrakesh0827)
 
 - 📄 Resume :
 [https://drive.google.com/file/d/1_IlArM699X5cNvPFe-eZzfMkEkVUmxco/view?usp=share_link](https://drive.google.com/file/d/1_IlArM699X5cNvPFe-eZzfMkEkVUmxco/view?usp=share_link)
 
+- 📫 How to reach me **acousticrakesh0827@gmail.com**
+
 - 💬 Ask me about **Java,Swing, C/C++, DSA**
 
-- ⚡ Fun fact **Life Is Unreal, Death Is Uncertain**
+- ⚡ My Fav Quotation : **Life Is Unreal, Death Is Uncertain**
+
 
 
 <details>
