@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rakesh</h1>
 <h3 align="center">A passionate Software Development Enthusiast from India</h3>
-<img align="left" alt="coding" width="2000"
+<div>
+    <img align="left" alt="coding" width="2000"
     src="https://hnwebmarketingseo.files.wordpress.com/2018/06/giphy.gif?w=1108">
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=im-rakesh0827&label=Profile%20views&color=0e75b6&style=flat"
         alt="im-rakesh0827" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=im-rakesh0827" alt="im-rakesh0827" /></a> </p>
-
-<a href="https://app.daily.dev/im_rakesh0827"><img
+</div>
+<div>
+    <a href="https://app.daily.dev/im_rakesh0827"><img
         src="https://api.daily.dev/devcards/af8267d7f3354450901bc26ab429a635.png?r=8qq" width="400" align="right"
         alt="Rakesh Kumar's Dev Card" /></a>
+</div>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
             src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
