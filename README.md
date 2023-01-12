@@ -9,7 +9,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
             src="https://github-profile-trophy.vercel.app/?username=im-rakesh0827" alt="im-rakesh0827" /></a> </p>
 
-<a href="https://app.daily.dev/im_rakesh0827"><img src="https://api.daily.dev/devcards/af8267d7f3354450901bc26ab429a635.png?r=l0z" width="400" align="right" alt="Rakesh Kumar's Dev Card"/></a>
+<a href="https://app.daily.dev/im_rakesh0827"><img
+        src="https://api.daily.dev/devcards/af8267d7f3354450901bc26ab429a635.png?r=8qq" width="400" align="right"
+        alt="Rakesh Kumar's Dev Card" /></a>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
             src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -40,30 +42,38 @@
 
 <details>
     <summary>
-        👨‍💻 Being a Tech Enthusiast I enjoy learning new Tech-Stack and Frameworks. I'm currently
-        learning:
+        👨‍💻 Being a Tech Enthusiast I enjoy learning new Tech-Stack.
     </summary>
     <br />
     <div>
-
-
         <img src="https://img.shields.io/badge/Java-007ACC?style=for-the-badge&logo=java&logoColor=white" />
         <img src="https://img.shields.io/badge/CPP-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-478CBF?style=for-the-badge&logo=mysql&logoColor=white" />
-
         <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
-
-
-
+        <img src="https://img.shields.io/badge/Spring-007ACC?style=for-the-badge&logo=Spring-007ACC&logoColor=white" />
+        <img
+            src="https://img.shields.io/badge/Spring Boot-007ACC?style=for-the-badge&logo=spring-boot&logoColor=white" />
         <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
         <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
         <img
+            src="https://img.shields.io/badge/IntelliJ%20Idea-0078D4?style=for-the-badge&logo=IntelliJ&logoColor=white" />
+        <img
             src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+    </div>
+</details>
+
+<details>
+    <summary>🌐 My Personal Website / Additional links: </summary>
+    <br />
+    <div>
+        <a href="https://github.com/im-rakesh0827"><img
+                src="https://img.shields.io/badge/Personal Site-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://im-rakesh0827.github.io/Portfolio-Website/"><img
+                src="https://img.shields.io/badge/Scratch%20Portfolio-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" /></a>
     </div>
 </details>
 
@@ -85,7 +95,6 @@
         <img
             src="https://img.shields.io/badge/Swift%20Playgrounds-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white" />
-
         <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
         <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
@@ -103,28 +112,39 @@
         <img src="https://img.shields.io/badge/Phaser.js-F15B2A?style=for-the-badge&logo=starship&logoColor=white" />
         <img src="https://img.shields.io/badge/GDevelop-007DB8?style=for-the-badge&logo=Gitee&logoColor=white" />
         <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
-        <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+        <a href="https://ethereum.org/en/web3/"><img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" /></a>
         <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
     </div>
 </details>
 
+
+
 <details>
-    <summary>🌐 My Personal Website / Additional links: </summary>
+    <summary>💬 Inspirational quotes that keep me motivated to code:</summary>
     <br />
-    <div>
-        <a href="https://github.com/im-rakesh0827"><img
-                src="https://img.shields.io/badge/Personal Site-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-        <a href="https://im-rakesh0827.github.io/Portfolio-Website/"><img
-                src="https://img.shields.io/badge/Scratch%20Portfolio-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" /></a>
-    </div>
+    <ul>
+        <li id="quote2021">
+            <i>
+                The key to success in life is having that lifelong passion for learning that extends beyond good grades
+                &
+                test scores. @2022 🎓
+            </i>
+        </li>
+        <br />
+        <li id="quote2022">
+            <i>
+                To become a great software developer, you must continuously read, learn, and code 📚.
+            </i>
+        </li>
+        <br />
+        <li id="quote2023">
+            <i>
+                Software development changed my life. Now, I want to use software development to change the lives of
+                others.
+            </i>
+        </li>
+    </ul>
 </details>
-
-
-
-
-
-
 
 
 
@@ -167,8 +187,23 @@
             alt="https://auth.geeksforgeeks.org/user/im_rakesh0827/" height="30" width="40" /></a>
 </p>
 
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
+            src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
+    </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a> <a
+        href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
+            width="40" height="40" /> </a>
+    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img
+            src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40"
+            height="40" /> </a>
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
+            src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> </a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-rakesh0827&"
         alt="im-rakesh0827" /></p>
 
