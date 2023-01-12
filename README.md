@@ -39,6 +39,16 @@
 - ⚡ Fun fact **Life Is Unreal, Death Is Uncertain**
 
 
+<details>
+    <summary>🌐 My Personal Website / Additional links: </summary>
+    <br />
+    <div>
+        <a href="https://github.com/im-rakesh0827"><img
+                src="https://img.shields.io/badge/Personal Site-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://im-rakesh0827.github.io/Portfolio-Website/"><img
+                src="https://img.shields.io/badge/Scratch%20Portfolio-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" /></a>
+    </div>
+</details>
 
 <details>
     <summary>
@@ -63,17 +73,6 @@
             src="https://img.shields.io/badge/IntelliJ%20Idea-0078D4?style=for-the-badge&logo=IntelliJ&logoColor=white" />
         <img
             src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    </div>
-</details>
-
-<details>
-    <summary>🌐 My Personal Website / Additional links: </summary>
-    <br />
-    <div>
-        <a href="https://github.com/im-rakesh0827"><img
-                src="https://img.shields.io/badge/Personal Site-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="https://im-rakesh0827.github.io/Portfolio-Website/"><img
-                src="https://img.shields.io/badge/Scratch%20Portfolio-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" /></a>
     </div>
 </details>
 
