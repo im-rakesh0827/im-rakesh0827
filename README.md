@@ -17,7 +17,6 @@
             src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Java | Mern Stack**
-- DSA - Practice (https://www.techinterviewhandbook.org/grind75?weeks=26&hours=10&difficulty=Medium&difficulty=Hard&difficulty=Easy)
 
 - 🔭 I’m currently working on [E-Voting System](https://github.com/im-rakesh0827/E-Voting-System)
 
@@ -30,16 +29,11 @@
 
 - 📄 Proof Of Work : (https://hashnode.com/@imrakesh0827)
 
-- 📄 Resume :
-[https://drive.google.com/file/d/1_IlArM699X5cNvPFe-eZzfMkEkVUmxco/view?usp=share_link](https://drive.google.com/file/d/1_IlArM699X5cNvPFe-eZzfMkEkVUmxco/view?usp=share_link)
-
 - 📫 How to reach me **acousticrakesh0827@gmail.com**
 
 - 💬 Ask me about **Java,Swing, C/C++, DSA**
 
 - ⚡ My Fav Quotation : **Life Is Unreal, Death Is Uncertain**
-
-
 
 <details>
     <summary>🌐 My Personal Website / Additional links: </summary>
@@ -147,7 +141,10 @@
     </ul>
 </details>
 
+- 📄 Resume :
+[https://drive.google.com/file/d/1_IlArM699X5cNvPFe-eZzfMkEkVUmxco/view?usp=share_link](https://drive.google.com/file/d/1_IlArM699X5cNvPFe-eZzfMkEkVUmxco/view?usp=share_link)
 
+- DSA - Practice (https://www.techinterviewhandbook.org/grind75?weeks=26&hours=10&difficulty=Medium&difficulty=Hard&difficulty=Easy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -187,6 +184,7 @@
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
             alt="https://auth.geeksforgeeks.org/user/im_rakesh0827/" height="30" width="40" /></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
