@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **acousticrakesh0827@gmail.com**
 
-- 💬 Ask me about **Java,Swing, C/C++, DSA**
+- 💬 Ask me about **Java,Swing, Spring, C/C++, DSA**
 
 - ⚡ My Fav Quotation : **Life Is Unreal, Death Is Uncertain**
 
