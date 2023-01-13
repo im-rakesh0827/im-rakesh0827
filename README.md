@@ -17,6 +17,7 @@
             src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Java | Mern Stack**
+- DSA - Practice (https://www.techinterviewhandbook.org/grind75?weeks=26&hours=10&difficulty=Medium&difficulty=Hard&difficulty=Easy)
 
 - 🔭 I’m currently working on [E-Voting System](https://github.com/im-rakesh0827/E-Voting-System)
 
