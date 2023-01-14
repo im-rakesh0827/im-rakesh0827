@@ -141,10 +141,9 @@
     </ul>
 </details>
 
-- 📄 Resume :
-[https://drive.google.com/file/d/1_IlArM699X5cNvPFe-eZzfMkEkVUmxco/view?usp=share_link](https://drive.google.com/file/d/1_IlArM699X5cNvPFe-eZzfMkEkVUmxco/view?usp=share_link)
+- 📄 Resume : https://drive.google.com/file/d/1OIksM5MNMzDVDapXMjpe_rfRhZHDM6yy/view?usp=share_link
 
-- DSA - Practice (https://www.techinterviewhandbook.org/grind75?weeks=26&hours=10&difficulty=Medium&difficulty=Hard&difficulty=Easy)
+- DSA - Practice : https://www.techinterviewhandbook.org/grind75?weeks=26&hours=10&difficulty=Medium&difficulty=Hard&difficulty=Easy
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
