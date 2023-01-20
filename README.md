@@ -18,15 +18,15 @@
 
 - 🌱 I’m currently learning **Java | Mern Stack**
 
-- 🔭 I’m currently working on [E-Voting System] https://github.com/im-rakesh0827/E-Voting-System
+- 🔭 I’m currently working on [E-Voting System](https://github.com/im-rakesh0827/E-Voting-System)
 
 - 👯 I’m looking to collaborate on : ......
 
 <!-- - 🤝 I’m looking for help with [E-Voting System](https://github.com/im-rakesh0827/E-Voting-System) -->
 
-- 📝 I write articles on : https://medium.com/@im-rakesh0827
+- 📝 I write articles on : [Medium](https://medium.com/@im-rakesh0827)
 
-- 📄 Proof Of Work : https://hashnode.com/@imrakesh0827
+- 📄 Proof Of Work : [Hashnode](https://hashnode.com/@imrakesh0827)
 
 - 📫 How to reach me : **acousticrakesh0827@gmail.com**
 
@@ -140,9 +140,9 @@
     </ul>
 </details>
 
-- 📄 Resume : https://drive.google.com/file/d/1OIksM5MNMzDVDapXMjpe_rfRhZHDM6yy/view?usp=share_link
+- 📄 Resume : [Click Here](https://drive.google.com/file/d/1OIksM5MNMzDVDapXMjpe_rfRhZHDM6yy/view?usp=share_link)
 
-- DSA - Practice : https://www.techinterviewhandbook.org/grind75?weeks=26&hours=10&difficulty=Medium&difficulty=Hard&difficulty=Easy
+- DSA - Practice : [Click Here](https://www.techinterviewhandbook.org/grind75?weeks=26&hours=10&difficulty=Medium&difficulty=Hard&difficulty=Easy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
