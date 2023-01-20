@@ -21,13 +21,13 @@
 - 🔭 I’m currently working on [E-Voting System](https://github.com/im-rakesh0827/E-Voting-System)
 
 - 👯 I’m looking to collaborate on
-[Employee-Management-System](https://github.com/im-rakesh0827/Employee-Management-System)
+[Employee-Management-System] https://github.com/im-rakesh0827/Employee-Management-System
 
 <!-- - 🤝 I’m looking for help with [E-Voting System](https://github.com/im-rakesh0827/E-Voting-System) -->
 
-- 📝 I write articles on [https://medium.com/@im-rakesh0827](https://medium.com/@im-rakesh0827)
+- 📝 I write articles on [https://medium.com/@im-rakesh0827] https://medium.com/@im-rakesh0827
 
-- 📄 Proof Of Work : (https://hashnode.com/@imrakesh0827)
+- 📄 Proof Of Work : https://hashnode.com/@imrakesh0827
 
 - 📫 How to reach me **acousticrakesh0827@gmail.com**
 
