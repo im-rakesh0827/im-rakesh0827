@@ -16,17 +16,23 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
             src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java | Mern Stack**
-
-- 🔭 I’m currently working on [E-Voting System](https://github.com/im-rakesh0827/E-Voting-System)
+- 🌱 I’m currently learning : **Mern Stack | Spring & Spring Boot**
 
 - 👯 I’m looking to collaborate on : ......
 
+- 🔭 I’m currently working on [E-Voting System](https://github.com/im-rakesh0827/E-Voting-System)
+
 <!-- - 🤝 I’m looking for help with [E-Voting System](https://github.com/im-rakesh0827/E-Voting-System) -->
 
-- 📝 I write articles on : [Medium](https://medium.com/@im-rakesh0827)
+- I write articles on : [Medium](https://medium.com/@im-rakesh0827)
 
-- 📄 Proof Of Work : [Hashnode](https://hashnode.com/@imrakesh0827)
+- Proof Of Work : [Hashnode](https://hashnode.com/@imrakesh0827)
+
+- Creativerse Blog : [Fueler](https://fueler.io/im_rakesh0827)
+
+- Personal Branding : [Ko-Fi](https://ko-fi.com/im_rakesh0827) 
+
+- My Protfolio : [Click Here](https://im-rakesh0827.github.io/Portfolio-Website/)
 
 - 📫 How to reach me : **acousticrakesh0827@gmail.com**
 
