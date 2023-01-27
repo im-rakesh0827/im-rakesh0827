@@ -7,6 +7,7 @@
         src="https://komarev.com/ghpvc/?username=im-rakesh0827&label=Profile%20views&color=0e75b6&style=flat"
         alt="im-rakesh0827" /> </p>
 </div>
+
 <div>
     <a href="https://app.daily.dev/im_rakesh0827"><img src="https://api.daily.dev/devcards/af8267d7f3354450901bc26ab429a635.png?r=kx1" width="400"   align="right" alt="Rakesh Kumar's Dev Card"/></a>
 </div>
