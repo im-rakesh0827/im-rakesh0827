@@ -14,7 +14,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
             src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning : **Mern Stack | Spring & Spring Boot**
+- 🌱 I’m currently working as Software Developer(DotNet) at : **Kavayah It Solutions, Hyderabad**
 
 - 👯 I’m looking to collaborate on : ......
 
