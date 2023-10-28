@@ -146,8 +146,9 @@
     </ul>
 </details>
 
+<!--
 - 📄 Resume : [Click Here](https://drive.google.com/file/d/1OIksM5MNMzDVDapXMjpe_rfRhZHDM6yy/view?usp=share_link)
-
+-->
 - DSA - Practice : [Click Here](https://www.techinterviewhandbook.org/grind75?weeks=26&hours=10&difficulty=Medium&difficulty=Hard&difficulty=Easy)
 
 <h3 align="left">Connect with me:</h3>
