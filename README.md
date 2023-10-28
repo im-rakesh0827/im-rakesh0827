@@ -34,7 +34,7 @@
 
 - My Protfolio : [Click Here](https://im-rakesh0827.github.io/Portfolio-Website/)
 
-- 📫 How to reach me : **acousticrakesh0827@gmail.com**
+- 📫 Contact Me : **acousticrakesh0827@gmail.com**
 
 - 💬 Ask me about : **Java,Swing, Spring, C/C++, DSA**
 
