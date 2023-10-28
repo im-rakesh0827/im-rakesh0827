@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakesh</h1>
-<h3 align="center">A passionate Software Development Enthusiast</h3>
+<h3 align="center">A passionate Software Developer | Tech Enthusiast</h3>
 <div>
     <img align="left" alt="coding" width="2000"
     src="https://hnwebmarketingseo.files.wordpress.com/2018/06/giphy.gif?w=1108">
