@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on : ......
 
-- 🔭 I’m currently working on [E-Voting System](https://github.com/im-rakesh0827/E-Voting-System)
+- 🔭 I’m currently working on : ...<!-- [E-Voting System](https://github.com/im-rakesh0827/E-Voting-System) -->
 
 <!-- - 🤝 I’m looking for help with [E-Voting System](https://github.com/im-rakesh0827/E-Voting-System) -->
 
