@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently working as Software Developer(DotNet) at : **Kavayah IT Solutions, Hyderabad**
 
-- 👯 I’m looking to collaborate on : ......
+- 👯 I’m looking to collaborate on : ...
 
 - 🔭 I’m currently working on : ...<!-- [E-Voting System](https://github.com/im-rakesh0827/E-Voting-System) -->
 
