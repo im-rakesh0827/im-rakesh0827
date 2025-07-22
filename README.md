@@ -153,6 +153,30 @@
 -->
 - DSA - Practice : [Click Here](https://www.techinterviewhandbook.org/grind75?weeks=26&hours=10&difficulty=Medium&difficulty=Hard&difficulty=Easy)
 
+
+---
+
+## 🛠 Skills & Tools
+
+### 💻 Languages & Frameworks
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
+![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=flat&logo=dotnet)
+![Java](https://img.shields.io/badge/-Java-007ACC?style=flat&logo=java)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus)
+
+### 🌐 Web & Databases
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+
+### ⚙️ Dev & Deployment
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/im-rakesh0827/" target="blank"><img align="center"
@@ -218,3 +242,6 @@
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=im-rakesh0827&show_icons=true&locale=en&layout=compact"
         alt="im-rakesh0827" /></p>
+
+
+
