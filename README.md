@@ -14,7 +14,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
             src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently working as Software Developer(DotNet) at : **Kavayah IT Solutions, Hyderabad**
+- 🌱 Worked as Software Developer(DotNet) at : **Kavayah IT Solutions Pvt Ltd, Hyderabad**
 
 - 👯 I’m looking to collaborate on : ...
 
@@ -22,19 +22,17 @@
 
 <!-- - 🤝 I’m looking for help with [E-Voting System](https://github.com/im-rakesh0827/E-Voting-System) -->
 
-- My Portfolio : [Portfolio](https://im-rakesh0827.github.io/Portfolio-Website/)
+- My Portfolio : [Portfolio](https://my-portfolio-bn20.onrender.com/)
 
 - I write articles on : [Medium](https://medium.com/@im-rakesh0827)
 
 - Proof Of Work : [Hashnode](https://hashnode.com/@imrakesh0827)
 
-- Creativerse Blog : [Fueler](https://fueler.io/im_rakesh0827)
+- Blog : [Fueler](https://fueler.io/im_rakesh0827)
 
 - Buy Me A Coffee : [Click Here](https://www.buymeacoffee.com/im_rakesh0827)
 
 - Personal Branding : [Ko-Fi](https://ko-fi.com/im_rakesh0827) 
-
-- My Protfolio : [Click Here](https://im-rakesh0827.github.io/Portfolio-Website/)
 
 - 📫 Contact Me : **acousticrakesh0827@gmail.com**
 
