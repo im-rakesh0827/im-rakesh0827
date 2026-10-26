@@ -1,245 +1,168 @@
-<h1 align="center">Hi 👋, I'm Rakesh</h1>
-<h3 align="center">A passionate Software Developer | Tech Enthusiast</h3>
-<div>
-    <img align="left" alt="coding" width="2000"
-    src="https://hnwebmarketingseo.files.wordpress.com/2018/06/giphy.gif?w=1108">
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=im-rakesh0827&label=Profile%20views&color=0e75b6&style=flat"
-        alt="im-rakesh0827" /> </p>
-</div>
-<div>
-    <a href="https://app.daily.dev/im_rakesh0827"><img src="https://api.daily.dev/devcards/af8267d7f3354450901bc26ab429a635.png?r=kx1" width="400"   align="right" alt="Rakesh Kumar's Dev Card"/></a>
-</div>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-            src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 Worked as Software Developer(DotNet) at : **Kavayah IT Solutions Pvt Ltd, Hyderabad**
-
-- 👯 I’m looking to collaborate on : ...
-
-- 🔭 I’m currently working on : ...<!-- [E-Voting System](https://github.com/im-rakesh0827/E-Voting-System) -->
-
-<!-- - 🤝 I’m looking for help with [E-Voting System](https://github.com/im-rakesh0827/E-Voting-System) -->
-
-- My Portfolio : [Portfolio](https://my-portfolio-bn20.onrender.com/)
-
-- I write articles on : [Medium](https://medium.com/@im-rakesh0827)
-
-- Proof Of Work : [Hashnode](https://hashnode.com/@imrakesh0827)
-
-- Blog : [Fueler](https://fueler.io/im_rakesh0827)
-
-- Buy Me A Coffee : [Click Here](https://www.buymeacoffee.com/im_rakesh0827)
-
-- Personal Branding : [Ko-Fi](https://ko-fi.com/im_rakesh0827) 
-
-- 📫 Contact Me : **acousticrakesh0827@gmail.com**
-
-- 💬 Ask me about : **Java,Swing, Spring, C/C++, DSA**
-
-- ⚡ My Fav Quotation : **Life Is Unreal, Death Is Uncertain**
-
-<details>
-    <summary>🌐 My Personal Website / Additional links: </summary>
-    <br />
-    <div>
-        <a href="https://github.com/im-rakesh0827"><img
-                src="https://img.shields.io/badge/Personal Site-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="https://im-rakesh0827.github.io/Portfolio-Website/"><img
-                src="https://img.shields.io/badge/Scratch%20Portfolio-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" /></a>
-    </div>
-</details>
-
-<details>
-    <summary>
-        👨‍💻 Being a Tech Enthusiast I enjoy learning new Tech-Stack.
-    </summary>
-    <br />
-    <div>
-        <img src="https://img.shields.io/badge/Java-007ACC?style=for-the-badge&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/CPP-007ACC?style=for-the-badge&logo=cplusplus&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-478CBF?style=for-the-badge&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML5-F16529?style=for-the-badge&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring-007ACC?style=for-the-badge&logo=Spring-007ACC&logoColor=white" />
-        <img
-            src="https://img.shields.io/badge/Spring Boot-007ACC?style=for-the-badge&logo=spring-boot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-        <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-        <img
-            src="https://img.shields.io/badge/IntelliJ%20Idea-0078D4?style=for-the-badge&logo=IntelliJ&logoColor=white" />
-        <img
-            src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-    </div>
-</details>
-
-<details>
-    <summary>
-        💻 Tech-Stack which I hope to learn in the upcoming future :
-    </summary>
-    <br />
-    <div>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-        <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FF9900?style=for-the-badge&logo=firebase&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI/ML-262c3e?style=for-the-badge&logo=probot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-        <img
-            src="https://img.shields.io/badge/Swift%20Playgrounds-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-239120?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-        <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
-        <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
-        <img
-            src="https://img.shields.io/badge/Semantic%20UI-35BDB2?style=for-the-badge&logo=semanticuireact&logoColor=white" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
-        <img
-            src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
-        <img src="https://img.shields.io/badge/Twine-1ED760?style=for-the-badge&logo=payoneer&logoColor=white" />
-        <img
-            src="https://img.shields.io/badge/Sugarcube-F34E68?style=for-the-badge&logo=hack-the-box&logoColor=white" />
-        <img src="https://img.shields.io/badge/Phaser.js-F15B2A?style=for-the-badge&logo=starship&logoColor=white" />
-        <img src="https://img.shields.io/badge/GDevelop-007DB8?style=for-the-badge&logo=Gitee&logoColor=white" />
-        <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
-        <a href="https://ethereum.org/en/web3/"><img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" /></a>
-        <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
-    </div>
-</details>
-
-
-
-<details>
-    <summary>💬 Inspirational quotes that keep me motivated to code:</summary>
-    <br />
-    <ul>
-        <li id="quote2021">
-            <i>
-                The key to success in life is having that lifelong passion for learning that extends beyond good grades
-                &
-                test scores. @2022 🎓
-            </i>
-        </li>
-        <br />
-        <li id="quote2022">
-            <i>
-                To become a great software developer, you must continuously read, learn, and code 📚.
-            </i>
-        </li>
-        <br />
-        <li id="quote2023">
-            <i>
-                Software development changed my life. Now, I want to use software development to change the lives of
-                others.
-            </i>
-        </li>
-    </ul>
-</details>
-
-<!--
-- 📄 Resume : [Click Here](https://drive.google.com/file/d/1OIksM5MNMzDVDapXMjpe_rfRhZHDM6yy/view?usp=share_link)
+ <!--
+  README.md — GitHub Profile
+  Repository: im-rakesh0827
 -->
-- DSA - Practice : [Click Here](https://www.techinterviewhandbook.org/grind75?weeks=26&hours=10&difficulty=Medium&difficulty=Hard&difficulty=Easy)
 
+<div align="center">
 
----
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Rakesh%20Kumar&fontColor=FFFFFF&fontSize=48&fontAlignY=40&desc=.NET%20Software%20Developer%20%7C%20Backend%20%26%20Web%20Development&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="Rakesh Kumar — .NET Software Developer" />
 
-## 🛠 Skills & Tools
+  <p>
+    <a href="https://my-portfolio-bn20.onrender.com/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/im-rakesh0827/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:acousticrakesh0827@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
-### 💻 Languages & Frameworks
-![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
-![.NET](https://img.shields.io/badge/-.NET-5C2D91?style=flat&logo=dotnet)
-![Java](https://img.shields.io/badge/-Java-007ACC?style=flat&logo=java)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus)
+  <img src="https://komarev.com/ghpvc/?username=im-rakesh0827&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" />
 
-### 🌐 Web & Databases
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-
-### ⚙️ Dev & Deployment
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
+</div>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/im-rakesh0827/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="https://www.linkedin.com/in/im-rakesh0827/" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13960854/rakesh-kumar" target="blank"><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-            alt="https://stackoverflow.com/users/13960854/rakesh-kumar" height="30" width="40" /></a>
-    <a href="https://kaggle.com/https://www.kaggle.com/imrakesh0827" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
-            alt="https://www.kaggle.com/imrakesh0827" height="30" width="40" /></a>
-    <a href="https://fb.com/https://www.facebook.com/im.rakesh0827" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="https://www.facebook.com/im.rakesh0827" height="30" width="40" /></a>
-    <a href="https://instagram.com/https://www.instagram.com/im_rakesh0827/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="https://www.instagram.com/im_rakesh0827/" height="30" width="40" /></a>
-    <a href="https://hashnode.com/https://hashnode.com/@imrakesh0827" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg"
-            alt="https://hashnode.com/@imrakesh0827" height="30" width="40" /></a>
-    <a href="https://medium.com/https://medium.com/@im-rakesh0827" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-            alt="https://medium.com/@im-rakesh0827" height="30" width="40" /></a>
-    <a href="https://www.codechef.com/users/https://www.codechef.com/users/rakesh_0827" target="blank"><img
-            align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
-            alt="https://www.codechef.com/users/rakesh_0827" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/https://www.hackerrank.com/im_rakesh0827" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-            alt="https://www.hackerrank.com/im_rakesh0827" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/https://leetcode.com/im_rakesh0827/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-            alt="https://leetcode.com/im_rakesh0827/" height="30" width="40" /></a>
-    <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/im_rakesh0827/" target="blank"><img
-            align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
-            alt="https://auth.geeksforgeeks.org/user/im_rakesh0827/" height="30" width="40" /></a>
+## About Me
+
+Hello! I'm **Rakesh Kumar**, a software developer passionate about building reliable, maintainable, and user-friendly applications.
+
+I have professional experience in software development and am particularly interested in the .NET ecosystem, backend engineering, database design, and full-stack application development.
+
+- 💻 **Focus:** .NET development, backend engineering, and web applications.
+- 🏢 **Previous experience:** Software Developer (.NET) at Kavayah IT Solutions Pvt. Ltd., Hyderabad.
+- 🚀 **Current project:** Building TenantVerse, a property management platform.
+- 🔌 **Backend:** API development, application logic, and database integration.
+- 🗄️ **Databases:** SQL, relational data modeling, and stored procedures.
+- 🧩 **Problem-solving:** Data structures, algorithms, and continuous learning.
+- 🤝 **Open to:** Meaningful collaborations, interesting software projects, and professional connections.
+
+> I believe great software comes from continuous learning, thoughtful engineering, and solving real-world problems.
+
+---
+
+## Featured Project
+
+### 🏢 TenantVerse — Property Management Platform
+
+TenantVerse is a property management project focused on simplifying rental and property-related workflows through a centralized digital experience.
+
+**Areas of development include:**
+
+- Property and unit management.
+- Owner and tenant management.
+- Rental invoices and payment tracking.
+- User-facing dashboards and application workflows.
+- Backend APIs, database integration, and maintainable application architecture.
+- Responsive user interfaces with reusable components.
+
+**Technologies used in development:**
+
+`C#` · `.NET` · `Blazor` · `MudBlazor` · `SQL Server` · `REST APIs`
+
+> Project status and the technology list should reflect the current implementation. Add the public repository or live website below when available.
+
+<p>
+  <a href="https://my-portfolio-bn20.onrender.com/">
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View portfolio" />
+  </a>
 </p>
 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img
-            src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a> <a
-        href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator"
-            width="40" height="40" /> </a>
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40"
-            height="40" /> </a>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
-            src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> </a>
-    
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=im-rakesh0827&"
-        alt="im-rakesh0827" /></p><p><img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=im-rakesh0827&show_icons=true&locale=en"
-        alt="im-rakesh0827" /></p>
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=im-rakesh0827&show_icons=true&locale=en&layout=compact"
-        alt="im-rakesh0827" /></p>
+## Technical Skills
 
+### Languages & Frameworks
 
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,cpp,js,html,css" alt="C#, .NET, Java, C++, JavaScript, HTML, and CSS" />
+</p>
 
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,mysql,postgres" alt=".NET, C#, MySQL, and PostgreSQL" />
+</p>
+
+- ASP.NET Core and REST API development
+- SQL queries, relational databases, and stored procedures
+- Application architecture and data access
+- API testing and debugging
+
+### Tools & Development Workflow
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,visualstudio,idea" alt="Git, GitHub, Docker, Postman, VS Code, Visual Studio, and IntelliJ IDEA" />
+</p>
+
+### Additional Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,maven,figma,linux" alt="Spring, Maven, Figma, and Linux" />
+</p>
+
+I also have interests in Java, Spring, data structures and algorithms, and exploring technologies that help me build better software.
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=im-rakesh0827&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
+
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-rakesh0827&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used programming languages" />
+
+  <br />
+
+  <img width="70%" src="https://streak-stats.demolab.com?user=im-rakesh0827&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## Writing & Knowledge Sharing
+
+I enjoy documenting what I learn, sharing technical knowledge, and improving my understanding of software development.
+
+<p>
+  <a href="https://medium.com/@im-rakesh0827">
+    <img src="https://img.shields.io/badge/Medium-Read%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium articles" />
+  </a>
+  <a href="https://hashnode.com/@imrakesh0827">
+    <img src="https://img.shields.io/badge/Hashnode-Technical%20Writing-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
+  </a>
+  <a href="https://fueler.io/im_rakesh0827">
+    <img src="https://img.shields.io/badge/Fueler-Proof%20of%20Work-111827?style=for-the-badge" alt="Fueler profile" />
+  </a>
+</p>
+
+---
+
+## Let's Connect
+
+I'm always interested in exchanging ideas, learning from other developers, and collaborating on useful software projects.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/im-rakesh0827/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/im-rakesh0827">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:acousticrakesh0827@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<div align="center">
+
+  ### 💡 My Development Philosophy
+
+  *Learn continuously. Build thoughtfully. Improve every day.*
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2563EB,100:06B6D4&section=footer" width="100%" alt="" />
+
+</div>
