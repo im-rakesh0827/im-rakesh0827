@@ -39,7 +39,8 @@ I have professional experience in software development and am particularly inter
 - 🧩 **Problem-solving:** Data structures, algorithms, and continuous learning.
 - 🤝 **Open to:** Meaningful collaborations, interesting software projects, and professional connections.
 
-> I believe great software comes from continuous learning, thoughtful engineering, and solving real-world problems.
+> I believe great software comes from continuous learning, thoughtful engineering, and solving real-world problems. <br/>
+> Don't build software people can comfortably ignore. Build software that prevents problems they cannot afford to ignore.
 
 ---
 
